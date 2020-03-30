@@ -1,0 +1,16 @@
+{
+    "name": "mikeludemann/smarty-container-elements",
+    "description": "Container and elements with Smarty",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Ludemann",
+            "email": "mike-ludemann@hotmail.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "smarty/smarty": "^3.1"
+    }
+}
